@@ -1,6 +1,6 @@
-# app_images
+# flutter_components_practice
 
-App of images
+Flutter Components
 
 ## Getting Started
 
