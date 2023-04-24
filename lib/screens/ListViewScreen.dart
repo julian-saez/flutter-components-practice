@@ -1,4 +1,4 @@
-import 'package:app_images/router/router.dart';
+import 'package:flutter_components_practice/router/router.dart';
 import 'package:flutter/material.dart';
 
 class ListViewScreen extends StatelessWidget {

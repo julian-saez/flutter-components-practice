@@ -1,8 +1,8 @@
-export 'package:app_images/screens/InfiniteScrollFuturesScreen.dart';
-export 'package:app_images/screens/ListViewScreen.dart';
-export 'package:app_images/screens/CardsScreen.dart';
-export 'package:app_images/screens/HomeScreen.dart';
-export 'package:app_images/screens/SliderScreen.dart';
-export 'package:app_images/screens/ListViewBuilderScreen.dart';
+export 'package:flutter_components_practice/screens/InfiniteScrollFuturesScreen.dart';
+export 'package:flutter_components_practice/screens/ListViewScreen.dart';
+export 'package:flutter_components_practice/screens/CardsScreen.dart';
+export 'package:flutter_components_practice/screens/HomeScreen.dart';
+export 'package:flutter_components_practice/screens/SliderScreen.dart';
+export 'package:flutter_components_practice/screens/ListViewBuilderScreen.dart';
 
-export 'package:app_images/screens/AlertScreen.dart';
+export 'package:flutter_components_practice/screens/AlertScreen.dart';

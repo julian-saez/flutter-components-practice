@@ -1,4 +1,4 @@
-import 'package:app_images/theme/app_theme.dart';
+import 'package:flutter_components_practice/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class SliderScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
-import 'package:app_images/models/menu_options.dart';
-import 'package:app_images/screens/LoginScreen.dart';
-import 'package:app_images/screens/screens.dart';
+import 'package:flutter_components_practice/models/menu_options.dart';
+import 'package:flutter_components_practice/screens/LoginScreen.dart';
+import 'package:flutter_components_practice/screens/screens.dart';
 import 'package:flutter/material.dart';
 
 class AppRoutes {
